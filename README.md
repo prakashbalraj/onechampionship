@@ -14,7 +14,9 @@ Steps to Execute:
 Execute the sql file in below order to get the output.
 
 prakashbalraj/onechampionship/Events_DDL.sql
+
 prakashbalraj/onechampionship/Events_DML.sql
+
 prakashbalraj/onechampionship/Events_Query.sql
 
 2. Data Parsing: 
@@ -29,7 +31,9 @@ Steps to Execute:
 -----------------
 
 Install the below packages if not available.
+
 pip install csv
+
 pip install json
 
 python data_parsing.py
