@@ -30,12 +30,19 @@ Each row is considered a floor access event. Your task it to output each floor a
 Steps to Execute:
 -----------------
 
+I have used Python as a Programming language. 
+
 Install the below packages if not available.
 
 pip install csv
 
 pip install json
 
+Execute:
+-------
+
 python data_parsing.py
 
+Output:
+------
 output file will be generated here /prakashbalraj/onechampionship/data.json
